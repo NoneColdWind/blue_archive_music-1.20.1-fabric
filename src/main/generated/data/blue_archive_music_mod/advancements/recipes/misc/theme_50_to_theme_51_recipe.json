@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:theme_50_to_theme_51_recipe"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_theme_50": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "blue_archive_music_mod:theme_50"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_theme_50",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:theme_50_to_theme_51_recipe"
+    ]
+  },
+  "sends_telemetry_event": false
+}

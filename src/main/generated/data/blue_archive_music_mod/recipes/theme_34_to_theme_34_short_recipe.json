@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blue_archive_music_mod:theme_34"
+    }
+  ],
+  "result": {
+    "item": "blue_archive_music_mod:theme_34_short"
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "blue_archive_music_mod",
+	"version": "${version}",
+	"name": "Blue Archive Music Mod",
+	"description": "Blue Archive Music.",
+	"authors": [
+		"NoneColdWind"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/blue_archive_music_mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "cn.ncw.bluearchive.BlueArchiveMusicMod"
+		],
+		"fabric-datagen": [
+          "cn.ncw.bluearchive.BlueArchiveMusicModDataGenerator"
+		]
+	},
+	"mixins": [
+		"blue_archive_music_mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
