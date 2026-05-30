@@ -1,5 +1,7 @@
 package cn.ncw.blue_archive_music.base;
 
+import cn.ncw.blue_archive_music.BAMusic;
+
 import java.io.IOException;
 import java.util.*;
 
@@ -9,7 +11,7 @@ public class CommonVariable {
 
     public static Dictionary<String, Integer> BlueArchiveMusicLength = new Hashtable<>();
 
-    public static List<String> BlueArchiveMusicNames = new ArrayList<>();
+    public static List<String> BlueArchiveMusicIds = new ArrayList<>();
 
     public static List<String> Mitsukiyo = new ArrayList<>();
 
@@ -329,7 +331,7 @@ public class CommonVariable {
         String str;
 
         try {
-            str = JarJsonReader.readJsonFromJar("assets/blue_archive_music_mod/data.json");
+            str = JarJsonReader.readJsonFromJar(getDataPath(BAMusic.MOD_ID));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -350,21 +352,40 @@ public class CommonVariable {
             keys.add(key);
         }
 
-        BlueArchiveMusicNames.addAll(keys);
+        BlueArchiveMusicIds.addAll(keys);
 
         for (String key : keys) {
             String var = map.get(key);
             String code = var.split("code: ")[1].split(",")[0].replace(" ", "");
             String name = var.split("name: ")[1].split(",")[0];
             String duration = var.split("duration: ")[1].split(",")[0];
-            String writer = var.split("writer: ")[1].split("}")[0].replace(" ", "");
+            String artist = var.split("artist: ")[1].split("}")[0].replace(" ", "");
             BlueArchiveMusic.put(code, name);
             BlueArchiveMusicLength.put(code, Integer.parseInt(duration));
-            switch (writer) {
+            switch (artist) {
                 case "Mitsukiyo" -> Mitsukiyo.add(name);
                 case "Nor" -> Nor.add(name);
                 case "KARUT" -> KARUT.add(name);
             }
         }
+    }
+
+    public static String get_desc(String id) {
+        String name = BlueArchiveMusic.get(id);
+        String artist = "";
+        if (Mitsukiyo.contains(name)) {
+            artist = "Mitsukiyo";
+        } else if (Nor.contains(name)) {
+            artist = "Nor";
+        } else if (KARUT.contains(name)) {
+            artist = "KARUT";
+        } else {
+            artist = "Unknown";
+        }
+        return artist + " - " + name;
+    }
+
+    private static String getDataPath(String ModId) {
+        return "assets/" + ModId + "/data.json";
     }
 }

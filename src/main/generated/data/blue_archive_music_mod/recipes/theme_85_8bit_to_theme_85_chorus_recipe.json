@@ -3,10 +3,10 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "blue_archive_music_mod:theme_85_8bit"
+      "item": "blue_archive_music:theme_85_8bit"
     }
   ],
   "result": {
-    "item": "blue_archive_music_mod:theme_85_chorus"
+    "item": "blue_archive_music:theme_85_chorus"
   }
 }

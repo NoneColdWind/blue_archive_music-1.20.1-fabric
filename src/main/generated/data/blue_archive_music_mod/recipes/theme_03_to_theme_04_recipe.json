@@ -3,10 +3,10 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "blue_archive_music_mod:theme_03"
+      "item": "blue_archive_music:theme_03"
     }
   ],
   "result": {
-    "item": "blue_archive_music_mod:theme_04"
+    "item": "blue_archive_music:theme_04"
   }
 }

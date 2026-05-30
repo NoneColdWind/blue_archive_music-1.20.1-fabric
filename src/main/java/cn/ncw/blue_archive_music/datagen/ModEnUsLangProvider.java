@@ -18,19 +18,10 @@ public class ModEnUsLangProvider extends FabricLanguageProvider {
 
         translationBuilder.add(ModItemGroups.NCW_BA_MUSIC_GROUP, "Blue Archive Music");
 
-        for (String music_name : BlueArchiveMusicNames) {
-            String writer = "";
-            translationBuilder.add(ModItems.BlueArchiveMusicDiscItems.get(music_name), "Music Disc");
-            if (Mitsukiyo.contains(BlueArchiveMusic.get(music_name))) {
-                writer = "Mitsukiyo";
-            } else if (Nor.contains(BlueArchiveMusic.get(music_name))) {
-                writer = "Nor";
-            } else if (KARUT.contains(BlueArchiveMusic.get(music_name))) {
-                writer = "KARUT";
-            } else {
-                writer = "null";
-            }
-            translationBuilder.add(ModItems.BlueArchiveMusicDiscItems.get(music_name).getTranslationKey() + ".desc", writer + " - " + BlueArchiveMusic.get(music_name));
+        for (String id : BlueArchiveMusicIds) {
+            translationBuilder.add(ModItems.BlueArchiveMusicDiscItems.get(id), "Music Disc");
+            translationBuilder.add(ModItems.BlueArchiveMusicDiscItems.get(id).getTranslationKey() + ".desc", get_desc(id));
+            translationBuilder.add("sound.music.blue_archive_music." + id, "Music: Play");
         }
     }
 }

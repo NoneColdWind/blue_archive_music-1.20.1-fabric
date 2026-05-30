@@ -1,0 +1,680 @@
+{
+    "music.theme_01": {
+        "subtitle": "sound.music.blue_archive_music.theme_01",
+        "sounds": [
+            "blue_archive_music:music/theme_01"
+        ]
+    },
+    "music.theme_02": {
+        "subtitle": "sound.music.blue_archive_music.theme_02",
+        "sounds": [
+            "blue_archive_music:music/theme_02"
+        ]
+    },
+    "music.theme_03": {
+        "subtitle": "sound.music.blue_archive_music.theme_03",
+        "sounds": [
+            "blue_archive_music:music/theme_03"
+        ]
+    },
+    "music.theme_04": {
+        "subtitle": "sound.music.blue_archive_music.theme_04",
+        "sounds": [
+            "blue_archive_music:music/theme_04"
+        ]
+    },
+    "music.theme_05": {
+        "subtitle": "sound.music.blue_archive_music.theme_05",
+        "sounds": [
+            "blue_archive_music:music/theme_05"
+        ]
+    },
+    "music.theme_06": {
+        "subtitle": "sound.music.blue_archive_music.theme_06",
+        "sounds": [
+            "blue_archive_music:music/theme_06"
+        ]
+    },
+    "music.theme_07": {
+        "subtitle": "sound.music.blue_archive_music.theme_07",
+        "sounds": [
+            "blue_archive_music:music/theme_07"
+        ]
+    },
+    "music.theme_08": {
+        "subtitle": "sound.music.blue_archive_music.theme_08",
+        "sounds": [
+            "blue_archive_music:music/theme_08"
+        ]
+    },
+    "music.theme_09": {
+        "subtitle": "sound.music.blue_archive_music.theme_09",
+        "sounds": [
+            "blue_archive_music:music/theme_09"
+        ]
+    },
+    "music.theme_10": {
+        "subtitle": "sound.music.blue_archive_music.theme_10",
+        "sounds": [
+            "blue_archive_music:music/theme_10"
+        ]
+    },
+    "music.theme_11": {
+        "subtitle": "sound.music.blue_archive_music.theme_11",
+        "sounds": [
+            "blue_archive_music:music/theme_11"
+        ]
+    },
+    "music.theme_12": {
+        "subtitle": "sound.music.blue_archive_music.theme_12",
+        "sounds": [
+            "blue_archive_music:music/theme_12"
+        ]
+    },
+    "music.theme_13": {
+        "subtitle": "sound.music.blue_archive_music.theme_13",
+        "sounds": [
+            "blue_archive_music:music/theme_13"
+        ]
+    },
+    "music.theme_14": {
+        "subtitle": "sound.music.blue_archive_music.theme_14",
+        "sounds": [
+            "blue_archive_music:music/theme_14"
+        ]
+    },
+    "music.theme_15": {
+        "subtitle": "sound.music.blue_archive_music.theme_15",
+        "sounds": [
+            "blue_archive_music:music/theme_15"
+        ]
+    },
+    "music.theme_16": {
+        "subtitle": "sound.music.blue_archive_music.theme_16",
+        "sounds": [
+            "blue_archive_music:music/theme_16"
+        ]
+    },
+    "music.theme_17": {
+        "subtitle": "sound.music.blue_archive_music.theme_17",
+        "sounds": [
+            "blue_archive_music:music/theme_17"
+        ]
+    },
+    "music.theme_18": {
+        "subtitle": "sound.music.blue_archive_music.theme_18",
+        "sounds": [
+            "blue_archive_music:music/theme_18"
+        ]
+    },
+    "music.theme_19": {
+        "subtitle": "sound.music.blue_archive_music.theme_19",
+        "sounds": [
+            "blue_archive_music:music/theme_19"
+        ]
+    },
+    "music.theme_20": {
+        "subtitle": "sound.music.blue_archive_music.theme_20",
+        "sounds": [
+            "blue_archive_music:music/theme_20"
+        ]
+    },
+    "music.theme_21": {
+        "subtitle": "sound.music.blue_archive_music.theme_21",
+        "sounds": [
+            "blue_archive_music:music/theme_21"
+        ]
+    },
+    "music.theme_21_short": {
+        "subtitle": "sound.music.blue_archive_music.theme_21_short",
+        "sounds": [
+            "blue_archive_music:music/theme_21_short"
+        ]
+    },
+    "music.theme_22": {
+        "subtitle": "sound.music.blue_archive_music.theme_22",
+        "sounds": [
+            "blue_archive_music:music/theme_22"
+        ]
+    },
+    "music.theme_23": {
+        "subtitle": "sound.music.blue_archive_music.theme_23",
+        "sounds": [
+            "blue_archive_music:music/theme_23"
+        ]
+    },
+    "music.theme_24": {
+        "subtitle": "sound.music.blue_archive_music.theme_24",
+        "sounds": [
+            "blue_archive_music:music/theme_24"
+        ]
+    },
+    "music.theme_24_8bit": {
+        "subtitle": "sound.music.blue_archive_music.theme_24_8bit",
+        "sounds": [
+            "blue_archive_music:music/theme_24_8bit"
+        ]
+    },
+    "music.theme_24_chorus": {
+        "subtitle": "sound.music.blue_archive_music.theme_24_chorus",
+        "sounds": [
+            "blue_archive_music:music/theme_24_chorus"
+        ]
+    },
+    "music.theme_24_intro": {
+        "subtitle": "sound.music.blue_archive_music.theme_24_intro",
+        "sounds": [
+            "blue_archive_music:music/theme_24_intro"
+        ]
+    },
+    "music.theme_24_verse": {
+        "subtitle": "sound.music.blue_archive_music.theme_24_verse",
+        "sounds": [
+            "blue_archive_music:music/theme_24_verse"
+        ]
+    },
+    "music.theme_25": {
+        "subtitle": "sound.music.blue_archive_music.theme_25",
+        "sounds": [
+            "blue_archive_music:music/theme_25"
+        ]
+    },
+    "music.theme_26": {
+        "subtitle": "sound.music.blue_archive_music.theme_26",
+        "sounds": [
+            "blue_archive_music:music/theme_26"
+        ]
+    },
+    "music.theme_27": {
+        "subtitle": "sound.music.blue_archive_music.theme_27",
+        "sounds": [
+            "blue_archive_music:music/theme_27"
+        ]
+    },
+    "music.theme_28": {
+        "subtitle": "sound.music.blue_archive_music.theme_28",
+        "sounds": [
+            "blue_archive_music:music/theme_28"
+        ]
+    },
+    "music.theme_29": {
+        "subtitle": "sound.music.blue_archive_music.theme_29",
+        "sounds": [
+            "blue_archive_music:music/theme_29"
+        ]
+    },
+    "music.theme_30": {
+        "subtitle": "sound.music.blue_archive_music.theme_30",
+        "sounds": [
+            "blue_archive_music:music/theme_30"
+        ]
+    },
+    "music.theme_31": {
+        "subtitle": "sound.music.blue_archive_music.theme_31",
+        "sounds": [
+            "blue_archive_music:music/theme_31"
+        ]
+    },
+    "music.theme_32": {
+        "subtitle": "sound.music.blue_archive_music.theme_32",
+        "sounds": [
+            "blue_archive_music:music/theme_32"
+        ]
+    },
+    "music.theme_33": {
+        "subtitle": "sound.music.blue_archive_music.theme_33",
+        "sounds": [
+            "blue_archive_music:music/theme_33"
+        ]
+    },
+    "music.theme_34": {
+        "subtitle": "sound.music.blue_archive_music.theme_34",
+        "sounds": [
+            "blue_archive_music:music/theme_34"
+        ]
+    },
+    "music.theme_34_short": {
+        "subtitle": "sound.music.blue_archive_music.theme_34_short",
+        "sounds": [
+            "blue_archive_music:music/theme_34_short"
+        ]
+    },
+    "music.theme_35": {
+        "subtitle": "sound.music.blue_archive_music.theme_35",
+        "sounds": [
+            "blue_archive_music:music/theme_35"
+        ]
+    },
+    "music.theme_36": {
+        "subtitle": "sound.music.blue_archive_music.theme_36",
+        "sounds": [
+            "blue_archive_music:music/theme_36"
+        ]
+    },
+    "music.theme_37": {
+        "subtitle": "sound.music.blue_archive_music.theme_37",
+        "sounds": [
+            "blue_archive_music:music/theme_37"
+        ]
+    },
+    "music.theme_38": {
+        "subtitle": "sound.music.blue_archive_music.theme_38",
+        "sounds": [
+            "blue_archive_music:music/theme_38"
+        ]
+    },
+    "music.theme_39": {
+        "subtitle": "sound.music.blue_archive_music.theme_39",
+        "sounds": [
+            "blue_archive_music:music/theme_39"
+        ]
+    },
+    "music.theme_40": {
+        "subtitle": "sound.music.blue_archive_music.theme_40",
+        "sounds": [
+            "blue_archive_music:music/theme_40"
+        ]
+    },
+    "music.theme_41": {
+        "subtitle": "sound.music.blue_archive_music.theme_41",
+        "sounds": [
+            "blue_archive_music:music/theme_41"
+        ]
+    },
+    "music.theme_42": {
+        "subtitle": "sound.music.blue_archive_music.theme_42",
+        "sounds": [
+            "blue_archive_music:music/theme_42"
+        ]
+    },
+    "music.theme_43": {
+        "subtitle": "sound.music.blue_archive_music.theme_43",
+        "sounds": [
+            "blue_archive_music:music/theme_43"
+        ]
+    },
+    "music.theme_44": {
+        "subtitle": "sound.music.blue_archive_music.theme_44",
+        "sounds": [
+            "blue_archive_music:music/theme_44"
+        ]
+    },
+    "music.theme_45": {
+        "subtitle": "sound.music.blue_archive_music.theme_45",
+        "sounds": [
+            "blue_archive_music:music/theme_45"
+        ]
+    },
+    "music.theme_46": {
+        "subtitle": "sound.music.blue_archive_music.theme_46",
+        "sounds": [
+            "blue_archive_music:music/theme_46"
+        ]
+    },
+    "music.theme_47": {
+        "subtitle": "sound.music.blue_archive_music.theme_47",
+        "sounds": [
+            "blue_archive_music:music/theme_47"
+        ]
+    },
+    "music.theme_48": {
+        "subtitle": "sound.music.blue_archive_music.theme_48",
+        "sounds": [
+            "blue_archive_music:music/theme_48"
+        ]
+    },
+    "music.theme_48_chorus": {
+        "subtitle": "sound.music.blue_archive_music.theme_48_chorus",
+        "sounds": [
+            "blue_archive_music:music/theme_48_chorus"
+        ]
+    },
+    "music.theme_48_intro": {
+        "subtitle": "sound.music.blue_archive_music.theme_48_intro",
+        "sounds": [
+            "blue_archive_music:music/theme_48_intro"
+        ]
+    },
+    "music.theme_48_verse": {
+        "subtitle": "sound.music.blue_archive_music.theme_48_verse",
+        "sounds": [
+            "blue_archive_music:music/theme_48_verse"
+        ]
+    },
+    "music.theme_49": {
+        "subtitle": "sound.music.blue_archive_music.theme_49",
+        "sounds": [
+            "blue_archive_music:music/theme_49"
+        ]
+    },
+    "music.theme_50": {
+        "subtitle": "sound.music.blue_archive_music.theme_50",
+        "sounds": [
+            "blue_archive_music:music/theme_50"
+        ]
+    },
+    "music.theme_51": {
+        "subtitle": "sound.music.blue_archive_music.theme_51",
+        "sounds": [
+            "blue_archive_music:music/theme_51"
+        ]
+    },
+    "music.theme_52": {
+        "subtitle": "sound.music.blue_archive_music.theme_52",
+        "sounds": [
+            "blue_archive_music:music/theme_52"
+        ]
+    },
+    "music.theme_53": {
+        "subtitle": "sound.music.blue_archive_music.theme_53",
+        "sounds": [
+            "blue_archive_music:music/theme_53"
+        ]
+    },
+    "music.theme_54": {
+        "subtitle": "sound.music.blue_archive_music.theme_54",
+        "sounds": [
+            "blue_archive_music:music/theme_54"
+        ]
+    },
+    "music.theme_55": {
+        "subtitle": "sound.music.blue_archive_music.theme_55",
+        "sounds": [
+            "blue_archive_music:music/theme_55"
+        ]
+    },
+    "music.theme_56": {
+        "subtitle": "sound.music.blue_archive_music.theme_56",
+        "sounds": [
+            "blue_archive_music:music/theme_56"
+        ]
+    },
+    "music.theme_57": {
+        "subtitle": "sound.music.blue_archive_music.theme_57",
+        "sounds": [
+            "blue_archive_music:music/theme_57"
+        ]
+    },
+    "music.theme_58": {
+        "subtitle": "sound.music.blue_archive_music.theme_58",
+        "sounds": [
+            "blue_archive_music:music/theme_58"
+        ]
+    },
+    "music.theme_59": {
+        "subtitle": "sound.music.blue_archive_music.theme_59",
+        "sounds": [
+            "blue_archive_music:music/theme_59"
+        ]
+    },
+    "music.theme_59_short": {
+        "subtitle": "sound.music.blue_archive_music.theme_59_short",
+        "sounds": [
+            "blue_archive_music:music/theme_59_short"
+        ]
+    },
+    "music.theme_59_title": {
+        "subtitle": "sound.music.blue_archive_music.theme_59_title",
+        "sounds": [
+            "blue_archive_music:music/theme_59_title"
+        ]
+    },
+    "music.theme_60": {
+        "subtitle": "sound.music.blue_archive_music.theme_60",
+        "sounds": [
+            "blue_archive_music:music/theme_60"
+        ]
+    },
+    "music.theme_61": {
+        "subtitle": "sound.music.blue_archive_music.theme_61",
+        "sounds": [
+            "blue_archive_music:music/theme_61"
+        ]
+    },
+    "music.theme_62": {
+        "subtitle": "sound.music.blue_archive_music.theme_62",
+        "sounds": [
+            "blue_archive_music:music/theme_62"
+        ]
+    },
+    "music.theme_63": {
+        "subtitle": "sound.music.blue_archive_music.theme_63",
+        "sounds": [
+            "blue_archive_music:music/theme_63"
+        ]
+    },
+    "music.theme_64": {
+        "subtitle": "sound.music.blue_archive_music.theme_64",
+        "sounds": [
+            "blue_archive_music:music/theme_64"
+        ]
+    },
+    "music.theme_65": {
+        "subtitle": "sound.music.blue_archive_music.theme_65",
+        "sounds": [
+            "blue_archive_music:music/theme_65"
+        ]
+    },
+    "music.theme_66": {
+        "subtitle": "sound.music.blue_archive_music.theme_66",
+        "sounds": [
+            "blue_archive_music:music/theme_66"
+        ]
+    },
+    "music.theme_67": {
+        "subtitle": "sound.music.blue_archive_music.theme_67",
+        "sounds": [
+            "blue_archive_music:music/theme_67"
+        ]
+    },
+    "music.theme_68": {
+        "subtitle": "sound.music.blue_archive_music.theme_68",
+        "sounds": [
+            "blue_archive_music:music/theme_68"
+        ]
+    },
+    "music.theme_69": {
+        "subtitle": "sound.music.blue_archive_music.theme_69",
+        "sounds": [
+            "blue_archive_music:music/theme_69"
+        ]
+    },
+    "music.theme_70": {
+        "subtitle": "sound.music.blue_archive_music.theme_70",
+        "sounds": [
+            "blue_archive_music:music/theme_70"
+        ]
+    },
+    "music.theme_71": {
+        "subtitle": "sound.music.blue_archive_music.theme_71",
+        "sounds": [
+            "blue_archive_music:music/theme_71"
+        ]
+    },
+    "music.theme_72": {
+        "subtitle": "sound.music.blue_archive_music.theme_72",
+        "sounds": [
+            "blue_archive_music:music/theme_72"
+        ]
+    },
+    "music.theme_73": {
+        "subtitle": "sound.music.blue_archive_music.theme_73",
+        "sounds": [
+            "blue_archive_music:music/theme_73"
+        ]
+    },
+    "music.theme_74": {
+        "subtitle": "sound.music.blue_archive_music.theme_74",
+        "sounds": [
+            "blue_archive_music:music/theme_74"
+        ]
+    },
+    "music.theme_75": {
+        "subtitle": "sound.music.blue_archive_music.theme_75",
+        "sounds": [
+            "blue_archive_music:music/theme_75"
+        ]
+    },
+    "music.theme_76": {
+        "subtitle": "sound.music.blue_archive_music.theme_76",
+        "sounds": [
+            "blue_archive_music:music/theme_76"
+        ]
+    },
+    "music.theme_77": {
+        "subtitle": "sound.music.blue_archive_music.theme_77",
+        "sounds": [
+            "blue_archive_music:music/theme_77"
+        ]
+    },
+    "music.theme_78": {
+        "subtitle": "sound.music.blue_archive_music.theme_78",
+        "sounds": [
+            "blue_archive_music:music/theme_78"
+        ]
+    },
+    "music.theme_79": {
+        "subtitle": "sound.music.blue_archive_music.theme_79",
+        "sounds": [
+            "blue_archive_music:music/theme_79"
+        ]
+    },
+    "music.theme_80": {
+        "subtitle": "sound.music.blue_archive_music.theme_80",
+        "sounds": [
+            "blue_archive_music:music/theme_80"
+        ]
+    },
+    "music.theme_81": {
+        "subtitle": "sound.music.blue_archive_music.theme_81",
+        "sounds": [
+            "blue_archive_music:music/theme_81"
+        ]
+    },
+    "music.theme_82": {
+        "subtitle": "sound.music.blue_archive_music.theme_82",
+        "sounds": [
+            "blue_archive_music:music/theme_82"
+        ]
+    },
+    "music.theme_83": {
+        "subtitle": "sound.music.blue_archive_music.theme_83",
+        "sounds": [
+            "blue_archive_music:music/theme_83"
+        ]
+    },
+    "music.theme_84": {
+        "subtitle": "sound.music.blue_archive_music.theme_84",
+        "sounds": [
+            "blue_archive_music:music/theme_84"
+        ]
+    },
+    "music.theme_85": {
+        "subtitle": "sound.music.blue_archive_music.theme_85",
+        "sounds": [
+            "blue_archive_music:music/theme_85"
+        ]
+    },
+    "music.theme_85_8bit": {
+        "subtitle": "sound.music.blue_archive_music.theme_85_8bit",
+        "sounds": [
+            "blue_archive_music:music/theme_85_8bit"
+        ]
+    },
+    "music.theme_85_chorus": {
+        "subtitle": "sound.music.blue_archive_music.theme_85_chorus",
+        "sounds": [
+            "blue_archive_music:music/theme_85_chorus"
+        ]
+    },
+    "music.theme_85_verse": {
+        "subtitle": "sound.music.blue_archive_music.theme_85_verse",
+        "sounds": [
+            "blue_archive_music:music/theme_85_verse"
+        ]
+    },
+    "music.theme_86": {
+        "subtitle": "sound.music.blue_archive_music.theme_86",
+        "sounds": [
+            "blue_archive_music:music/theme_86"
+        ]
+    },
+    "music.theme_87": {
+        "subtitle": "sound.music.blue_archive_music.theme_87",
+        "sounds": [
+            "blue_archive_music:music/theme_87"
+        ]
+    },
+    "music.theme_88": {
+        "subtitle": "sound.music.blue_archive_music.theme_88",
+        "sounds": [
+            "blue_archive_music:music/theme_88"
+        ]
+    },
+    "music.theme_89": {
+        "subtitle": "sound.music.blue_archive_music.theme_89",
+        "sounds": [
+            "blue_archive_music:music/theme_89"
+        ]
+    },
+    "music.theme_91": {
+        "subtitle": "sound.music.blue_archive_music.theme_91",
+        "sounds": [
+            "blue_archive_music:music/theme_91"
+        ]
+    },
+    "music.theme_92": {
+        "subtitle": "sound.music.blue_archive_music.theme_92",
+        "sounds": [
+            "blue_archive_music:music/theme_92"
+        ]
+    },
+    "music.theme_93": {
+        "subtitle": "sound.music.blue_archive_music.theme_93",
+        "sounds": [
+            "blue_archive_music:music/theme_93"
+        ]
+    },
+    "music.theme_94": {
+        "subtitle": "sound.music.blue_archive_music.theme_94",
+        "sounds": [
+            "blue_archive_music:music/theme_94"
+        ]
+    },
+    "music.theme_95": {
+        "subtitle": "sound.music.blue_archive_music.theme_95",
+        "sounds": [
+            "blue_archive_music:music/theme_95"
+        ]
+    },
+    "music.theme_96": {
+        "subtitle": "sound.music.blue_archive_music.theme_96",
+        "sounds": [
+            "blue_archive_music:music/theme_96"
+        ]
+    },
+    "music.theme_97": {
+        "subtitle": "sound.music.blue_archive_music.theme_97",
+        "sounds": [
+            "blue_archive_music:music/theme_97"
+        ]
+    },
+    "music.theme_98": {
+        "subtitle": "sound.music.blue_archive_music.theme_98",
+        "sounds": [
+            "blue_archive_music:music/theme_98"
+        ]
+    },
+    "music.theme_99": {
+        "subtitle": "sound.music.blue_archive_music.theme_99",
+        "sounds": [
+            "blue_archive_music:music/theme_99"
+        ]
+    },
+    "music.theme_100": {
+        "subtitle": "sound.music.blue_archive_music.theme_100",
+        "sounds": [
+            "blue_archive_music:music/theme_100"
+        ]
+    }
+}

@@ -12,18 +12,18 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/blue_archive_music_mod/icon.png",
+	"icon": "assets/blue_archive_music/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-          "cn.ncw.bluearchive.BlueArchiveMusicMod"
+          "cn.ncw.blue_archive_music.BAMusic"
 		],
 		"fabric-datagen": [
-          "cn.ncw.bluearchive.BlueArchiveMusicModDataGenerator"
+          "cn.ncw.blue_archive_music.BAMusicDataGenerator"
 		]
 	},
 	"mixins": [
-		"blue_archive_music_mod.mixins.json"
+		"blue_archive_music.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",

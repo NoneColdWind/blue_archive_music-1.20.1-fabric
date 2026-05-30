@@ -21,8 +21,8 @@ public class ModModelsProvider extends FabricModelProvider {
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
 
-        for (String music_name : CommonVariable.BlueArchiveMusicNames) {
-            itemModelGenerator.register(ModItems.BlueArchiveMusicDiscItems.get(music_name), Models.GENERATED);
+        for (String id : CommonVariable.BlueArchiveMusicIds) {
+            itemModelGenerator.register(ModItems.BlueArchiveMusicDiscItems.get(id), Models.GENERATED);
         }
 
     }

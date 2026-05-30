@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "blue_archive_music_mod:theme_01_recipe"
+        "recipe": "blue_archive_music:theme_01_recipe"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "blue_archive_music_mod:theme_01_recipe"
+      "blue_archive_music:theme_01_recipe"
     ]
   },
   "sends_telemetry_event": false

@@ -3,678 +3,678 @@
         "code": "theme_01",
         "name": "Constant Moderato",
         "duration": 139,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_02": {
         "code": "theme_02",
         "name": "Luminous memory",
         "duration": 138,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_03": {
         "code": "theme_03",
         "name": "Mischievous Step",
         "duration": 152,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_04": {
         "code": "theme_04",
         "name": "Lovely Picnic",
         "duration": 140,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_05": {
         "code": "theme_05",
         "name": "Colorful Mess",
         "duration": 113,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_06": {
         "code": "theme_06",
         "name": "Funky Road",
         "duration": 132,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_07": {
         "code": "theme_07",
         "name": "Unwelcome School",
         "duration": 122,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_08": {
         "code": "theme_08",
         "name": "Shady Girls",
         "duration": 156,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_09": {
         "code": "theme_09",
         "name": "Midsummer cat",
         "duration": 141,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_10": {
         "code": "theme_10",
         "name": "Romantic Smile",
         "duration": 135,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_11": {
         "code": "theme_11",
         "name": "Connected Sky",
         "duration": 123,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_12": {
         "code": "theme_12",
         "name": "Shooting Stars",
         "duration": 118,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_13": {
         "code": "theme_13",
         "name": "Barrier",
         "duration": 126,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_14": {
         "code": "theme_14",
         "name": "Step by Step",
         "duration": 132,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_15": {
         "code": "theme_15",
         "name": "Honey Jam",
         "duration": 139,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_16": {
         "code": "theme_16",
         "name": "MX Adventure",
         "duration": 114,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_17": {
         "code": "theme_17",
         "name": "Irasshaimase",
         "duration": 131,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_18": {
         "code": "theme_18",
         "name": "Mechanical JUNGLE",
         "duration": 124,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_19": {
         "code": "theme_19",
         "name": "Virtual Storm",
         "duration": 127,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_20": {
         "code": "theme_20",
         "name": "Tech N Tech",
         "duration": 125,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_21": {
         "code": "theme_21",
         "name": "Midnight Trip",
         "duration": 94,
-        "writer": "Unknown"
+        "artist": "Unknown"
     },
     "theme_21_short": {
         "code": "theme_21_short",
         "name": "Midnight Trip (Short)",
         "duration": 45,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_22": {
         "code": "theme_22",
         "name": "Daily Routine 247",
         "duration": 117,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_23": {
         "code": "theme_23",
         "name": "Party time",
         "duration": 78,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_24": {
         "code": "theme_24",
         "name": "Endless Carnival (All)",
         "duration": 144,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_24_8bit": {
         "code": "theme_24_8bit",
         "name": "Endless Carnival 8-Bit Arrange",
         "duration": 144,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_24_chorus": {
         "code": "theme_24_chorus",
         "name": "Endless Carnival 03 (Chorus)",
         "duration": 61,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_24_intro": {
         "code": "theme_24_intro",
         "name": "Endless Carnival 01 (Intro)",
         "duration": 23,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_24_verse": {
         "code": "theme_24_verse",
         "name": "Endless Carnival 02 (Verse)",
         "duration": 61,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_25": {
         "code": "theme_25",
         "name": "Future Bossa",
         "duration": 132,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_26": {
         "code": "theme_26",
         "name": "Lemonade Diary",
         "duration": 156,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_27": {
         "code": "theme_27",
         "name": "Fade Out",
         "duration": 92,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_28": {
         "code": "theme_28",
         "name": "Plug and Play",
         "duration": 129,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_29": {
         "code": "theme_29",
         "name": "Alert",
         "duration": 120,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_30": {
         "code": "theme_30",
         "name": "CrossFire",
         "duration": 116,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_31": {
         "code": "theme_31",
         "name": "Hello to Halo",
         "duration": 106,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_32": {
         "code": "theme_32",
         "name": "GGF",
         "duration": 113,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_33": {
         "code": "theme_33",
         "name": "Vivid Night",
         "duration": 106,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_34": {
         "code": "theme_34",
         "name": "Aoharu",
         "duration": 109,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_34_short": {
         "code": "theme_34_short",
         "name": "Aoharu (short)",
         "duration": 32,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_35": {
         "code": "theme_35",
         "name": "Morose Dreamer",
         "duration": 143,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_36": {
         "code": "theme_36",
         "name": "Koi is love",
         "duration": 110,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_37": {
         "code": "theme_37",
         "name": "Aira",
         "duration": 138,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_38": {
         "code": "theme_38",
         "name": "Guruguru Usagi",
         "duration": 139,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_39": {
         "code": "theme_39",
         "name": "Water Drop",
         "duration": 132,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_40": {
         "code": "theme_40",
         "name": "Neo City Dive",
         "duration": 140,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_41": {
         "code": "theme_41",
         "name": "Interface",
         "duration": 118,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_42": {
         "code": "theme_42",
         "name": "Glitch Street",
         "duration": 128,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_43": {
         "code": "theme_43",
         "name": "KIRISAME",
         "duration": 115,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_44": {
         "code": "theme_44",
         "name": "Walkthrough",
         "duration": 110,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_45": {
         "code": "theme_45",
         "name": "Signal of Abydos",
         "duration": 115,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_46": {
         "code": "theme_46",
         "name": "Sugar story",
         "duration": 122,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_47": {
         "code": "theme_47",
         "name": "Coffee Cats",
         "duration": 175,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_48": {
         "code": "theme_48",
         "name": "Out of Control (All)",
         "duration": 131,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_48_chorus": {
         "code": "theme_48_chorus",
         "name": "Out of Control 03 (Chorus)",
         "duration": 45,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_48_intro": {
         "code": "theme_48_intro",
         "name": "Out of Control 01 (Intro)",
         "duration": 45,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_48_verse": {
         "code": "theme_48_verse",
         "name": "Out of Control 02 (Verse)",
         "duration": 45,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_49": {
         "code": "theme_49",
         "name": "Mechanical JUNGLE (Hi-Tech Full On Mix)",
         "duration": 132,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_50": {
         "code": "theme_50",
         "name": "Hue",
         "duration": 117,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_51": {
         "code": "theme_51",
         "name": "ARES",
         "duration": 114,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_52": {
         "code": "theme_52",
         "name": "Vibes",
         "duration": 137,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_53": {
         "code": "theme_53",
         "name": "Future Lab",
         "duration": 122,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_54": {
         "code": "theme_54",
         "name": "After the Beep",
         "duration": 120,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_55": {
         "code": "theme_55",
         "name": "Moment",
         "duration": 104,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_56": {
         "code": "theme_56",
         "name": "Fearful Utopia",
         "duration": 124,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_57": {
         "code": "theme_57",
         "name": "Han-nari",
         "duration": 104,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_58": {
         "code": "theme_58",
         "name": "SAKURA PUNCH",
         "duration": 125,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_59": {
         "code": "theme_59",
         "name": "RE Aoharu",
         "duration": 143,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_59_short": {
         "code": "theme_59_short",
         "name": "RE Aoharu (Short)",
         "duration": 84,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_59_title": {
         "code": "theme_59_title",
         "name": "RE Aoharu (Title)",
         "duration": 95,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_60": {
         "code": "theme_60",
         "name": "SAKURA PUNCH Hard Arrange",
         "duration": 123,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_61": {
         "code": "theme_61",
         "name": "Rolling Beat",
         "duration": 154,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_62": {
         "code": "theme_62",
         "name": "Merry Blue",
         "duration": 132,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_63": {
         "code": "theme_63",
         "name": "Blooming moon",
         "duration": 131,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_64": {
         "code": "theme_64",
         "name": "Pixel Time",
         "duration": 133,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_65": {
         "code": "theme_65",
         "name": "Accelerator",
         "duration": 112,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_66": {
         "code": "theme_66",
         "name": "Golden Shangri-la",
         "duration": 109,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_67": {
         "code": "theme_67",
         "name": "Someday, sometime",
         "duration": 112,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_68": {
         "code": "theme_68",
         "name": "Virtual Storm Hard Arrange",
         "duration": 133,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_69": {
         "code": "theme_69",
         "name": "Snow Pantomime",
         "duration": 140,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_70": {
         "code": "theme_70",
         "name": "Black Suit",
         "duration": 113,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_71": {
         "code": "theme_71",
         "name": "Denshi Toujou!",
         "duration": 116,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_72": {
         "code": "theme_72",
         "name": "Kaiten Screw!!!",
         "duration": 132,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_73": {
         "code": "theme_73",
         "name": "Interface Hard Arrange",
         "duration": 123,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_74": {
         "code": "theme_74",
         "name": "Tech N Tech Hard Arrange",
         "duration": 123,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_75": {
         "code": "theme_75",
         "name": "Alert Hard Arrange",
         "duration": 122,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_76": {
         "code": "theme_76",
         "name": "CrossFire Hard Arrange",
         "duration": 141,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_77": {
         "code": "theme_77",
         "name": "Burning Love",
         "duration": 123,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_78": {
         "code": "theme_78",
         "name": "Fever Time",
         "duration": 118,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_79": {
         "code": "theme_79",
         "name": "Summer Bounce",
         "duration": 140,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_80": {
         "code": "theme_80",
         "name": "Colorful Beach",
         "duration": 125,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_81": {
         "code": "theme_81",
         "name": "Summer Bounce Hard Arrange",
         "duration": 115,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_82": {
         "code": "theme_82",
         "name": "Hifumi Daisuki",
         "duration": 150,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_83": {
         "code": "theme_83",
         "name": "PRST Academy",
         "duration": 105,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_84": {
         "code": "theme_84",
         "name": "PRST Marching",
         "duration": 137,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_85": {
         "code": "theme_85",
         "name": "Library of Omen (All)",
         "duration": 133,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_85_8bit": {
         "code": "theme_85_8bit",
         "name": "Library of Omen (8bit)",
         "duration": 54,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_85_chorus": {
         "code": "theme_85_chorus",
         "name": "Library of Omen 02 (Chorus)",
         "duration": 54,
-        "writer": "Unknown"
+        "artist": "Unknown"
     },
     "theme_85_verse": {
         "code": "theme_85_verse",
         "name": "Library of Omen 01 (Verse)",
         "duration": 80,
-        "writer": "Unknown"
+        "artist": "Unknown"
     },
     "theme_86": {
         "code": "theme_86",
         "name": "Summertime archive",
         "duration": 108,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_87": {
         "code": "theme_87",
         "name": "Constant Moderato -Piano Arrange-",
         "duration": 186,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_88": {
         "code": "theme_88",
         "name": "Oriental Drop",
         "duration": 125,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_89": {
         "code": "theme_89",
         "name": "The Dragon Express",
         "duration": 125,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_91": {
         "code": "theme_91",
         "name": "FEEEEVER TIME",
         "duration": 89,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_92": {
         "code": "theme_92",
         "name": "Crucial Issue",
         "duration": 115,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_93": {
         "code": "theme_93",
         "name": "Formless Dream",
         "duration": 122,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_94": {
         "code": "theme_94",
         "name": "Bunny Bunny Carrot Carrot",
         "duration": 117,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_95": {
         "code": "theme_95",
         "name": "Jackpot 777",
         "duration": 115,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_96": {
         "code": "theme_96",
         "name": "OperationD",
         "duration": 115,
-        "writer": "Nor"
+        "artist": "Nor"
     },
     "theme_97": {
         "code": "theme_97",
         "name": "Blue New Year!",
         "duration": 98,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_98": {
         "code": "theme_98",
         "name": "Oxygen Destroyer",
         "duration": 117,
-        "writer": "KARUT"
+        "artist": "KARUT"
     },
     "theme_99": {
         "code": "theme_99",
         "name": "Nesno wons",
         "duration": 119,
-        "writer": "Mitsukiyo"
+        "artist": "Mitsukiyo"
     },
     "theme_100": {
         "code": "theme_100",
         "name": "Undefined Behavior",
         "duration": 120,
-        "writer": "KARUT"
+        "artist": "KARUT"
     }
 }

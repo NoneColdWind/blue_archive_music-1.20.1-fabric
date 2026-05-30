@@ -17,9 +17,9 @@ public class ModItemTagsProvider extends FabricTagProvider.ItemTagProvider {
     @Override
     protected void configure(RegistryWrapper.WrapperLookup wrapperLookup) {
 
-        for (String music_name : CommonVariable.BlueArchiveMusicNames) {
-            getOrCreateTagBuilder(ItemTags.MUSIC_DISCS).add(ModItems.BlueArchiveMusicDiscItems.get(music_name));
-            getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS).add(ModItems.BlueArchiveMusicDiscItems.get(music_name));
+        for (String id : CommonVariable.BlueArchiveMusicIds) {
+            getOrCreateTagBuilder(ItemTags.MUSIC_DISCS).add(ModItems.BlueArchiveMusicDiscItems.get(id));
+            getOrCreateTagBuilder(ItemTags.CREEPER_DROP_MUSIC_DISCS).add(ModItems.BlueArchiveMusicDiscItems.get(id));
         }
 
     }
