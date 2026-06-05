@@ -356,12 +356,12 @@ public class CommonVariable {
 
         for (String key : keys) {
             String var = map.get(key);
-            String code = var.split("code: ")[1].split(",")[0].replace(" ", "");
+            String id = var.split("id: ")[1].split(",")[0].replace(" ", "");
             String name = var.split("name: ")[1].split(",")[0];
             String duration = var.split("duration: ")[1].split(",")[0];
             String artist = var.split("artist: ")[1].split("}")[0].replace(" ", "");
-            BlueArchiveMusic.put(code, name);
-            BlueArchiveMusicLength.put(code, Integer.parseInt(duration));
+            BlueArchiveMusic.put(id, name);
+            BlueArchiveMusicLength.put(id, Integer.parseInt(duration));
             switch (artist) {
                 case "Mitsukiyo" -> Mitsukiyo.add(name);
                 case "Nor" -> Nor.add(name);
